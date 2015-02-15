@@ -14,7 +14,7 @@
   {
     "remote": "cm",
     "repository": "CyanogenMod/android_kernel_sony_msm8x60",
-    "target_path": "kernel/sony/msm8960t",
+    "target_path": "kernel/sony/msm8x60",
     "revision": "cm-12.0"
   },
   {
